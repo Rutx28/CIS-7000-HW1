@@ -1,1 +1,5 @@
-# CIS-7000-HW1
+# Twilight's Grimoire
+
+In "Twilight's Grimoire", players embark on a haunting quest in a spooky, old house shrouded in night. As the Arcane Heir, a descendant of a legendary wizard, you explore mysterious graveyards, encounter spectral entities, and uncover hidden rooms, each holding secrets tied to your magical heritage. From befriending a fire spirit in the East Graveyard to discovering enchanted artifacts like a bag of magical salt and an Ember Berry, the game weaves a tale of arcane mysteries and ancestral magic. The journey involves activating a mystical portal using Green and Blue Orbs, revealing the hearth's secrets in the Green Room, and engaging with ethereal beings like the Whispering Wraith. Each decision and discovery draws players deeper into a world where the line between the physical and the magical blurs, leading them to their ultimate destiny as the heir to a powerful wizard.
+
+I've always been captivated by the realm of fiction, be it through books, movies, or video games. Whenever I'm selecting a new book or video game, I find myself drawn to stories that feature superhuman abilities or elements of magic, as they significantly enhance my experience. To me, these fantastical elements offer a delightful escape from reality. After all, isn't escapism one of the core joys of immersing oneself in books and video games? 
