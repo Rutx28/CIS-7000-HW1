@@ -1,0 +1,21 @@
+Go west
+dig earth
+get salt bag
+get ember berry
+go east
+go east
+feed fire spirit the ember berry
+pet fire spirit
+go west
+go in
+go west
+hit wraith with salt bag
+get blue orb
+go east
+go east
+release fire spirit
+get green orb
+go west
+energize portal
+go in
+get ancient tome 
